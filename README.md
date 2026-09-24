@@ -318,7 +318,7 @@ The research question, methodological decisions, scientific interpretations, sel
 * 💻 [Master Table Construction Notebook](code/pollinator_master_table_v2.ipynb)
 * 📈 [Analysis & Figures Notebook](code/pollinator_figures_v2.ipynb)
 * 🌱 [Original EnviDat Dataset](rejichacko_etal_2025_envidat/)
-* 📰 Medium research-process article: **[link to be added]**
+* 📰 [Medium research-process article](https://medium.com/@15652926286/beyond-pollinator-counts-how-i-built-a-trait-and-time-based-analysis-of-urban-pollination-59e52cac58b8)
 
 ---
 
